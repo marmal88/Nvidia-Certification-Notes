@@ -22,4 +22,9 @@ Editions (3 available):
 - Application streaming (vApps) - [docs]()
     - Application virtualization similar to Citrix or Remote Desktop Session Host (RDSH)
 
+Benefits:
+- performance indistinguisable from bare metal
+- management and monitoring
+- optimizes resource utilization
+- responsive to evolving team requirements
 
