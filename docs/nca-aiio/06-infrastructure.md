@@ -16,8 +16,10 @@ Nvidia virtual GPUs creates virtual GPUs to be shared across virtual machines. [
 
 Editions (3 available):
 - Virtual Workstations (vWS) - [docs](https://www.nvidia.com/en-us/design-visualization/virtual-workstation/?ncid=no-ncid)
-    - Use cases include AI training and 
+    - GPU intensive applications like CAD, rendering and AI
 - Virtual Desktop (vPC) - [docs](https://www.nvidia.com/en-us/data-center/virtual-pc/?ncid=no-ncid)
+    - workloads for general business users (e.g. windows, video streaming)
 - Application streaming (vApps) - [docs]()
-    - GPU intensive applications like CAD and 
+    - Application virtualization similar to Citrix or Remote Desktop Session Host (RDSH)
+
 
