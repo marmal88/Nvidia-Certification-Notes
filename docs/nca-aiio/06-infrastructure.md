@@ -14,3 +14,10 @@ Is a suite of tools for managing Nvidia Data Center GPUs in a cluster environmen
 Nvidia virtual GPUs creates virtual GPUs to be shared across virtual machines. [docs](https://www.nvidia.com/en-us/data-center/virtual-solutions/)  
     - Able to aggregate GPUs and allocate resources to machines based on workload type
 
+Editions (3 available):
+- Virtual Workstations (vWS) - [docs](https://www.nvidia.com/en-us/design-visualization/virtual-workstation/?ncid=no-ncid)
+    - Use cases include AI training and 
+- Virtual Desktop (vPC) - [docs](https://www.nvidia.com/en-us/data-center/virtual-pc/?ncid=no-ncid)
+- Application streaming (vApps) - [docs]()
+    - GPU intensive applications like CAD and 
+
