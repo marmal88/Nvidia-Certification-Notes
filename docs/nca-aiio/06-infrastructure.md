@@ -28,3 +28,6 @@ Benefits:
 - optimizes resource utilization
 - responsive to evolving team requirements
 
+
+## Agentic AI
+
